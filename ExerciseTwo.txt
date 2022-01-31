@@ -1,0 +1,19 @@
+class ExerciseTwo {
+
+ 
+ public static void main (String [] args)
+{
+     evenNum();
+
+  System.out.println(Even);
+}
+
+   private static int evenNum (int a, int b){
+   
+      int Even = (a/b)
+
+      return Even;
+
+
+}
+}
